@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Practica2.2</string>
+
+    <string name="materia" translatable="false">
+       Desarrollo de Aplicaciones Móviles
+    </string>
+
+    <string name="nombre" translatable="false">
+        Guadalupe Nieves
+    </string>
+
+    <string name="apellido" translatable="false">
+        Flores Nava
+    </string>
+
+    <string name="descripcion_imagen" translatable="false">
+Retrato de Ramon Gomez
+Diego Rivera
+    </string>
+    <string name="back_btn_desc">Botón regresar</string>
+    <string name="home_screen">Pantalla Principal</string>
+    <string name="bottom_app_bar">Barra inferior</string>
+    <string name="home_fab_text">Agregar</string>
+    <string name="options_menu" translatable="false">Opciones</string>
+    <string name="profile" translatable="false">Perfil</string>
+    <string name="config" translatable="false">Configuración</string>
+    <string name="logout" translatable="false">Cerrar sesión</string>
+    <string name="whatsapp" translatable="false">WhatsApp</string>
+    <string name="social_media" translatable="false">Instagram</string>
+    <string name="camera" translatable="false">Cámara</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica2.2</string>
+
+    <string name="materia">
+       Desarrollo de Aplicaciones Móviles
+    </string>
+
+    <string name="nombre">
+        Guadalupe Nieves
+    </string>
+
+    <string name="apellido">
+        Flores Nava
+    </string>
+
+    <string name="descripcion_imagen">
+       Retrato de Ramon Gomez <br>
+        Diego Rivera
+    </br>
+    </string>
+</resources>

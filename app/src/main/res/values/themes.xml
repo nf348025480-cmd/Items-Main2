@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Practica22" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Practica22.Starting" parent="Theme.SplashScreen">
+        <!-- color de fondo de splash -->
+        <item name="windowSplashScreenBackground">@color/gray</item>
+
+        <!-- icono estatico o animado (vector drawable) -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/c1</item>
+
+        <!-- el tema con el que continuara la app una vez termine el splash -->
+        <item name="postSplashScreenTheme">@style/Theme.Practica22</item>
+    </style>
+
+</resources>
